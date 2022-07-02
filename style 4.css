@@ -1,0 +1,278 @@
+header{
+    display:flex;
+    height: 75vh;
+    
+    justify-content: space-around;
+  
+
+}
+.container{
+  align-content: center;
+}
+.text{
+    width: 50%;
+    padding: 0 70px;
+
+}
+
+img{
+    width: 350px;
+    padding: auto;
+    height: 350px;
+    border-radius: 50%;
+    margin: 30px 30px ;
+    
+}
+.title{
+
+    font-size: 60px;
+    font-weight: bold;
+    padding-left: 10px;
+    border-left:3px solid magenta;
+}
+.hlColor{
+    color: #ff9100;
+    font-size: 50px;
+}
+.text p{
+    font-size: 21px;
+    color: #999;
+}
+.text button{
+    padding: 10px 40px;
+    border: none;
+    background-color: #fa064f;
+    color: #fff;
+}
+ .title-main{
+     text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+     
+    display: inline;
+     margin: 10px 440px;
+     padding: 7px;
+     color: #080808;
+ }
+ 
+
+.title-small{
+    font-size: 17px;
+}
+
+ #digital{
+     margin: 50px 80px;
+     padding: 16px;
+ }
+ #item{
+    color: #ff9100;
+    display: inline;
+ }
+
+.wrapper{
+    display: flex;
+    justify-content:space-around;
+    gap: 70px
+    ;
+     
+margin: 100px;
+height: 300px;
+  
+
+
+}
+
+ .card-1{
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    background-color: rgb(247, 232, 220);
+    width: 300px;
+     border-radius: 10%;
+     margin-top: -15px;
+     
+     
+ }
+ .card-2{
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    background-color: rgb(178, 233, 233);
+    width: 300px;
+    border-radius: 10%;
+    margin-top: -15px;
+    
+     
+ }
+ .card-3{
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    background-color: rgb(108, 235, 175);
+    width: 300px;
+    border-radius: 10%;
+    margin-top: -15px;
+    
+ }
+ .digital{
+    width: 130px;
+    height: 100px;
+    margin-top: -30px;
+    
+     
+ }
+ .web{
+    width: 130px;
+    height: 100px;
+    margin-top: -30px;
+    
+
+ }
+ .graphic{
+    width: 130px;
+    height: 100px;
+    margin-top: -30px;
+    
+ }
+.desk{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    margin: auto;
+}
+.img{
+    margin-top: -60px;
+}
+ .idea{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+ }
+ .new{
+    color: #ff9100;
+ }
+  .para{
+    color: rgb(158, 149, 149);
+    font-size: 20px;
+  }
+  .button{
+     background-color: #ff024e;
+     padding: 8px;
+     border: none;
+     color: white;
+     
+  }
+   .our{
+    height: 350px;
+    display: flex;
+    justify-content: space-around;
+   }
+   .wow{
+     margin-top: -50px;
+     margin-right: 50px;
+   }
+   #our{
+    margin-left: 35px;
+   }
+   .my{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+   }
+   .sky{
+    color: #ff9100;
+   }
+   .yes{
+    background-color: #fa064f;
+    padding: 8px;
+    border: none;
+    color: white;
+   }
+
+  #wow{
+    
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    background: #ff024e;
+    display: inline;
+     margin: 10px 470px;
+     padding: 7px;
+     color: #080808; 
+     
+     
+  }
+  #me{
+    color: #ff9100;
+  }
+
+  #you{
+    border-radius: 0%;
+    height: 600px;
+    
+  }
+  #watch{
+    display: flex;
+    justify-content: space-around;
+    height: 680px;
+    margin-top: 27px;
+  }
+  #your{
+     margin-top: 170px;
+     height: 200px;
+  }
+  .your{
+    color: #ff9100;
+  }
+  .look{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #look{
+    color: rgb(145, 134, 134);
+    font-size: 18px;
+  }
+  #idea{
+    color: rgb(145, 134, 134);
+    font-size: 18px;
+  }
+  .tareq{
+    background-color: #fa064f;
+    padding: 8px;
+    border: none;
+    color: white;
+  }
+   .nice{
+    margin-left: 600px;
+    color: white;
+     justify-content: space-around;
+      
+
+   }
+   #nice{
+    background-color: #161616;
+    width: 100vw;
+    margin-left: -10px;
+    
+    padding-top: 0.1px;
+    padding-bottom: 0.1px;
+    height: 90px;
+   }
+   .family{
+    color: #ff9100;
+   }
+   .last{
+    margin-left: -10px;
+    margin-top: 3px;
+    font-size: 15px;
+    font-weight: lighter;
+    display: inline;
+    display: flex;
+     
+   }
