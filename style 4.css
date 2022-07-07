@@ -54,6 +54,7 @@ header{
 
 .title-small{
     font-size: 17px;
+    color: #050505;
 }
 
  #digital{
@@ -80,7 +81,7 @@ height: 300px;
 
  .card-1{
      padding: 50px 20px;
-    background-color: rgb(247, 232, 220);
+    background-color: rgb(187, 240, 235);
     width: 300px;
      border-radius: 10%;
      margin-top: -15px;
@@ -134,10 +135,8 @@ height: 300px;
  .new{
     color: #ff9100;
  }
-  .para{
-    color: rgb(158, 149, 149);
-    font-size: 20px;
-  }
+   
+  
   .button{
      background-color: #ff024e;
      padding: 8px;
@@ -195,6 +194,9 @@ height: 300px;
     border-radius: 0%;
     height: 600px;
     margin-top: 20px;
+     
+
+  
     
   }
   #watch{
@@ -309,27 +311,10 @@ span{
 .down{
   margin-top: 50px;
 }
-.close{
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-  color: white;
-   
-}
-.last-container{
-  background-color: #080808;
-   
-   
-  width: 100vw;
   
-}
- .color{
-   
-  color: #ff9100;
-   text-align: center;
-   margin-bottom: 10px;
-   
-    
- }
+ 
+  
+ 
  
    
 
